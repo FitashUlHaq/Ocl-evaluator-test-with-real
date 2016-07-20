@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.ocl_3.6.0.v20160523-1914.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.ocl.common_1.4.0.v20160521-2033.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.ocl.uml_5.2.0.v20160521-2033.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.uml2_5.2.0.v20160516-0939.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.uml2.common_2.1.0.v20160516-0939.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.uml2.uml_5.2.0.v20160516-0939.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.uml2.uml.profile.standard_1.0.100.v20160516-0939.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.uml2.uml.resources_5.2.0.v20160516-0939.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/lpg.runtime.java_2.0.17.v201004271640.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.emf.ecore.xmi_2.12.0.v20160420-0247.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.emf.mapping.ecore2xml_2.7.0.v20130902-0605.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.emf.common_2.12.0.v20160420-0247.jar"/>
+	<classpathentry kind="lib" path="EMF_Lib/org.eclipse.uml2.types_2.0.0.v20160516-0939.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
